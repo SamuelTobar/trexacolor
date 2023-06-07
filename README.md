@@ -1,2 +1,1 @@
-# trexacolor
-samuel_tobar
+# Juegos-compatibles-con-dispositivos
